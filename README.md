@@ -2,7 +2,7 @@
 
 ## An Xcode Theme Parser
 
-[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5ad768595918c10001e582cd&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5ad768595918c10001e582cd/build/latest?branch=master)
+[![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=5af1dda003568900013490eb&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/5af1dda003568900013490eb/build/latest?branch=master)
 
 
 ### Install
